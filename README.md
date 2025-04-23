@@ -4,7 +4,7 @@ THIS IS A WEBSITE TO SHOWCASE THE INDIAN HERITAGE AND CULTURE AND DEVELOPED FOR 
 
 WEBSITE IS LIVE AT: 
 
-https://d-roy-2003.github.io/CyberX_SoftCodeHack_2.0/
+## (https://inidianheritage.debangshuroy.site/)
 
 VISIT MY WEBSITE
 
